@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 19
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 12
     },
     {
       "id": 4,
@@ -47,6 +47,60 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Ricardo",
+      "image": "https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/tv_blog/photo/dora-explorerjpg-3d1163555ccbdd6e.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Andrea",
+      "image": "https://static.wikia.nocookie.net/vsbattles/images/f/f5/DKtheking.png/revision/latest/scale-to-width-down/1200?cb=20230808011303",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Ricardo",
+      "image": "https://housing.com/news/wp-content/uploads/2023/07/Cute-dog-breeds-that-make-the-best-pets-04.png",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Scootie",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjAzZDZhOWEtMjliZS00NzA0LThjN2QtYmY0ZGNiNjBkZjQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzA1NjMxODE@._V1_FMjpg_UX1000_.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Andrea",
+      "image": "https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/tv_blog/photo/dora-explorerjpg-3d1163555ccbdd6e.jpg",
+      "likes": 5,
+      "id": 13
+    },
+    {
+      "name": "Stevie",
+      "image": "https://static.wikia.nocookie.net/muc/images/f/f6/Dora_the_Explorer.png/revision/latest?cb=20180315203942",
+      "likes": 5,
+      "id": 14
+    },
+    {
+      "name": "Cira",
+      "image": "https://static.wikia.nocookie.net/muc/images/f/f6/Dora_the_Explorer.png/revision/latest?cb=20180315203942",
+      "likes": 14,
+      "id": 15
+    },
+    {
+      "name": "April",
+      "image": "https://static.wikia.nocookie.net/muc/images/f/f6/Dora_the_Explorer.png/revision/latest?cb=20180315203942",
+      "likes": 6,
+      "id": 16
+    },
+    {
+      "name": "Ronald",
+      "image": "https://static.wikia.nocookie.net/paw-patrol/images/5/59/Zuma_PNG.png/revision/latest?cb=20180825091810",
+      "likes": 5,
+      "id": 17
     }
   ]
 }
